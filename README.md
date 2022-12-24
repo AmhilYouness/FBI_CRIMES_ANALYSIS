@@ -1,6 +1,4 @@
-# Project_FBI
-
-This is used to hadoop sample Project which uses following technology stack.
+# Project_FBI_CRIMES_ANALYSIS
 
 # Hadoop Map Reduce
 # Hive
@@ -8,6 +6,3 @@ This is used to hadoop sample Project which uses following technology stack.
 # MySQL
 # Python
 
-Enjoy..!
-
-Happy Coding..!
